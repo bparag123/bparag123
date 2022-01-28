@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bparag123)
 ![counter](https://enmzfc3qy4ot6pd.m.pipedream.net)
 
 
