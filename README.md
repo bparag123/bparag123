@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bparag123)
+![counter](https://https://github.com/bparag123.m.pipedream.net)
