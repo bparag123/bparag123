@@ -1,4 +1,7 @@
 ### Hi there ! Parag Bharadva here ...👋
+<a href="https://imparag.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/my-portfolio-blue" alt="portfolio" style="margin-bottom: 5px;">
+ </a>
 
 
 <!-- Here are some ideas to get you started:-->
@@ -50,7 +53,8 @@
 ### ✉️ Connect with me:
 
 <div align="center">
-<a href="mailto:bparag123@gmail.com" target="_blank">
+  
+ <a href="mailto:bparag123@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
