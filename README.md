@@ -6,7 +6,7 @@
 
 <!-- Here are some ideas to get you started:-->
 
-- 🔭 Currently i’m intern at <b>Simform Solutions</b>
+- 🔭 Currently i’m Software Development Engineer at <b>Simform Solutions</b>
 - 💬 Ask me about your Problems
 
 
