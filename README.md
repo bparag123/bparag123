@@ -43,11 +43,6 @@
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 
-![Parag's github stats](https://github-readme-stats.vercel.app/api?username=bparag123&show_icons=true&locale=en&theme=dark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bparag123&show_icons=true&locale=en&theme=dark&layout=compact&langs_count=10&count_private=true)
-
-
 ![About Me](https://github-readme-streak-stats.herokuapp.com/?user=bparag123&theme=dark)
 
 ### ✉️ Connect with me:
